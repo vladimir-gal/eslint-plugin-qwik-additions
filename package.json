@@ -1,0 +1,15 @@
+{
+  "name": "eslint-plugin-qwik-additions",
+  "version": "0.0.1",
+  "description": "Plugin for ESlint to enable additional Qwik linting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/**/*.js"
+  },
+  "author": "Vladimir Gal",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
+}
